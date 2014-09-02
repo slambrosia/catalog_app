@@ -1,0 +1,13 @@
+development:
+  adapter: mysql2
+  database: list-app-dev
+  username: root
+  password:
+  host: 127.0.0.1
+
+production:
+  adapter: mysql2
+  database: list-app-prod 
+  username: root
+  password:
+  host: 127.0.0.1
