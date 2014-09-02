@@ -1,4 +1,4 @@
-<h2>Catalogue Application</h2>
+Catalogue Application
 
 his is a practice and Test application for learning Rails 4.
 
